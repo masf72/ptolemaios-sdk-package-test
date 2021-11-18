@@ -8,6 +8,6 @@ setup(
     author='masf72',
     author_email='test@test.com',
     license='unlicense',
-    packages=['masf72test'],
+    packages=['ptolemaios'],
     zip_safe=False
 )
